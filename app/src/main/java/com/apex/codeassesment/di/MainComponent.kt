@@ -5,7 +5,7 @@ import com.apex.codeassesment.ui.main.MainActivity
 import dagger.BindsInstance
 import dagger.Component
 
-@Component(modules = [MainModule::class])
+@Component(modules = [MainModule::class,NetworkModule::class])
 interface MainComponent {
 
   @Component.Factory

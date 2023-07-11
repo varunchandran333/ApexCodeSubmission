@@ -5,10 +5,17 @@
     <string name="view_details">View details</string>
     <string name="details_name">Name: %1$s %2$s</string>
     <string name="details_email">Email: %s</string>
+    <string name="details_age">Age: %s years</string>
     <string name="details_location">Location: (%1$s, %2$s)</string>
     <string name="calculate_distance_button_details">Calculate distance from current location</string>
     <string name="calculate_distance_button">Calculate distance</string>
     <string name="location_random_user">Location of random user: (%1$s, %2$s)</string>
     <string name="location_phone">Location of this phone: (%1$s, %2$s)</string>
     <string name="location_result_miles">[%f] miles</string>
+    <string name="string_refresh_random_user">Refresh random user</string>
+    <string name="string_show_10_users">Show 10 users</string>
+    <string name="content_description_user_thumbnail">user thumbnail</string>
+    <string name="text_name">Name:</string>
+    <string name="label_email">Email:</string>
+    <string name="content_description_details_image">content_description_details_image</string>
 </resources>
